@@ -1,4 +1,6 @@
-# webarchiveproject
+# Web Archive Project
+
+Our aims to collect all UK websites at least once per year.
 
 ## Who Is This For?
 
